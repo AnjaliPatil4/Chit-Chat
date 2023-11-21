@@ -31,7 +31,7 @@ Chit-Chat is a user-friendly Chat App that facilitates real-time communication. 
 4. **Start the Client:**
    ```bash
    # Open a new terminal
-   cd frontend
+   cd Frontends
    npm start
 
 
