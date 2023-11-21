@@ -19,7 +19,7 @@ Chit-Chat is a user-friendly Chat App that facilitates real-time communication. 
 1. **Clone the project:**
    ```bash
    git clone 
-   cd mern-chat-app
+   cd Chit-Chat
 2. **Install dependencies:**
    ```bash
    npm install
@@ -27,8 +27,7 @@ Chit-Chat is a user-friendly Chat App that facilitates real-time communication. 
    npm install
 3. **Start the server**
    ```bash
-   git clone 
-   cd mern-chat-app
+   npm start
 4. **Start the Client:**
    ```bash
    # Open a new terminal
