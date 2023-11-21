@@ -23,7 +23,7 @@ Chit-Chat is a user-friendly Chat App that facilitates real-time communication. 
 2. **Install dependencies:**
    ```bash
    npm install
-   cd frontend/
+   cd Frontends/
    npm install
 3. **Start the server**
    ```bash
